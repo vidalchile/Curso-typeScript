@@ -1,0 +1,717 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"programa"
+			],
+			[
+				"ge",
+				"getNombre"
+			],
+			[
+				"onc",
+				"onclick	Attr"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"get",
+				"getTimeline"
+			],
+			[
+				"gt",
+				"getNombre"
+			],
+			[
+				"set",
+				"setTimeline"
+			],
+			[
+				"se",
+				"setVersion"
+			],
+			[
+				"Co",
+				"CocheBase"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"coche_",
+				"coche_dos"
+			],
+			[
+				"s",
+				"string"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"devuel",
+				"devuelveNumero"
+			],
+			[
+				"e",
+				"etiqueta"
+			],
+			[
+				"ar",
+				"arch"
+			],
+			[
+				"sw",
+				"switch	switch …"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"SP",
+				"span"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"ap_",
+				"ap_pat"
+			],
+			[
+				"em",
+				"emailEtapaUno"
+			],
+			[
+				"tare",
+				"tarea_cuatro"
+			],
+			[
+				"tarea",
+				"tarea_uno"
+			],
+			[
+				"TARE",
+				"tarea_tres"
+			],
+			[
+				"tarea_",
+				"tarea_cuatro"
+			],
+			[
+				"et",
+				"etapa_tres"
+			],
+			[
+				"id_",
+				"id_solicitud"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"q",
+				"query_et1"
+			],
+			[
+				"tar",
+				"tarea_dos"
+			],
+			[
+				"det",
+				"detEtUno"
+			],
+			[
+				"vali",
+				"validarEtapa"
+			],
+			[
+				"fec",
+				"fecha_act_4"
+			],
+			[
+				"tituo",
+				"titulo_et_cuatro"
+			],
+			[
+				"fecha_",
+				"fecha_act_3"
+			],
+			[
+				"titu",
+				"titulo_et_tres"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"FE",
+				"fecha_act_2"
+			],
+			[
+				"tit",
+				"titulo_et_uno"
+			],
+			[
+				"det_",
+				"det_et_uno"
+			],
+			[
+				"de",
+				"det_et_uno"
+			],
+			[
+				"id",
+				"iduser"
+			],
+			[
+				"_",
+				"_sendMailNuevoUsuario"
+			],
+			[
+				"gen",
+				"genero_abogado"
+			],
+			[
+				"a_mat",
+				"a_mat_solicitante"
+			],
+			[
+				"daa",
+				"data"
+			],
+			[
+				"a_mater",
+				"a_materno_new"
+			],
+			[
+				"a_mate",
+				"a_materno_new"
+			],
+			[
+				"a_pa",
+				"a_paterno_new"
+			],
+			[
+				"a_ma",
+				"a_mat_new"
+			],
+			[
+				"a_par",
+				"a_paterno_new"
+			],
+			[
+				"a_",
+				"a_paterno"
+			],
+			[
+				"s_nom",
+				"s_nombre_new"
+			],
+			[
+				"p_nomb",
+				"p_nombre"
+			],
+			[
+				"t_nom",
+				"t_nombre_new"
+			],
+			[
+				"p_nom",
+				"p_nombre_new"
+			],
+			[
+				"s_nom_",
+				"s_nombre_new"
+			],
+			[
+				"t_no",
+				"t_nombre_new"
+			],
+			[
+				"s_no",
+				"s_nombre_new"
+			],
+			[
+				"p_no",
+				"p_nombre_new"
+			],
+			[
+				"p_",
+				"p_nom_solicitante"
+			],
+			[
+				"ca",
+				"causa"
+			],
+			[
+				"fe",
+				"fecha_ingreso"
+			],
+			[
+				"da",
+				"datos_causa"
+			],
+			[
+				"ra",
+				"rand"
+			],
+			[
+				"base_",
+				"base_url"
+			],
+			[
+				"imae",
+				"imagen"
+			],
+			[
+				"region",
+				"region_nombre"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"nom",
+				"nombre_pdf"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/curso-typescript/index.html",
+		"/C/xampp/htdocs/curso-typescript/prueba.js",
+		"/C/xampp/htdocs/curso-typescript/prueba.ts",
+		"/C/xampp/htdocs/curso-typescript/coche.js",
+		"/C/xampp/htdocs/curso-typescript/coche.ts",
+		"/C/xampp/htdocs/curso-typescript/programa.js",
+		"/C/xampp/htdocs/curso-typescript/programa.ts",
+		"/C/xampp/htdocs/curso-typescript/curso-typescript.sublime-project",
+		"/C/Users/cristian/Desktop/CEXFERROX481_COBRA730/CEXFERROX481_COBRA730/TEXTO DE POST.txt",
+		"/C/Users/cristian/Google Drive/SYSMEDCLOUD_MEDESIS/TESIS INFORMATICA 2016/Tesis Finalizada/Resumen presentación.txt",
+		"/C/xampp/changes.txt",
+		"/C/Users/cristian/Desktop/cd_tesis/DB_SYSMEDCLOUD.sql",
+		"/C/Users/cristian/Desktop/cd_tesis/fuentes/application/controllers/Reportes.php",
+		"/C/Users/cristian/Desktop/cd_tesis/fuentes/application/controllers/Gestion.php",
+		"/C/Users/cristian/Desktop/cd_tesis/fuentes/application/controllers/Ficha_medica.php",
+		"/C/Users/cristian/Desktop/cd_tesis/fuentes/application/controllers/Consulta_medica.php",
+		"/C/Users/cristian/Desktop/cd_tesis/fuentes/application/controllers/Dashboard_admin.php",
+		"/C/Users/cristian/Desktop/cd_tesis/fuentes/application/models/Ficha_medica_model.php",
+		"/C/Users/cristian/Desktop/cd_tesis/fuentes/application/models/Dashboard_model.php",
+		"/C/Users/cristian/Desktop/cd_tesis/fuentes/application/models/Consulta_model.php",
+		"/C/Users/cristian/Desktop/cd_tesis/fuentes/application/models/Agenda_model.php",
+		"/C/xampp/htdocs/bootstrap-ajax-typeahead-master/demo/index.html",
+		"/C/Users/cristian/Desktop/cd_tesis/sysmed_local/application/controllers/Consulta_medica.php",
+		"/C/Users/cristian/Desktop/cd_tesis/sysmed_local/application/models/Consulta_model.php",
+		"/C/Users/cristian/Desktop/cd_tesis/sysmed_local/application/models/Ficha_medica_model.php",
+		"/C/Users/cristian/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/sysmedcloud_produccion/.htaccess",
+		"/C/xampp/htdocs/sysmedcloud_produccion/application/config/config.php",
+		"/C/xampp/htdocs/sysmedcloud_produccion/application/config/database.php",
+		"/C/xampp/htdocs/jqueryPlugins-master/BootstrapFileupload/index.php",
+		"/C/Users/cristian/Downloads/sysmedcloud_db.sql",
+		"/C/Users/cristian/Google Drive/cloudmed/AVANCES_MODULOS_SYSMEDCLOUD_14102016.txt",
+		"/C/Users/cristian/Dropbox/segundo_semestre_2014/CPI/Entrega 1 CPI/Tareas para implantación de ERP.txt",
+		"/C/Users/cristian/AppData/Local/Temp/fz3temp-2/Login_app_model.php",
+		"/C/Users/cristian/AppData/Local/Temp/fz3temp-2/Login_app.php",
+		"/C/xampp/htdocs/sysmedcloud_v2_local/application/config/config.php",
+		"/C/xampp/htdocs/sysmedcloud_v2_local/application/config/database.php",
+		"/C/xampp/htdocs/sysmedcloud/application/config/config.php",
+		"/C/xampp/htdocs/sysmedcloud/application/config/database.php",
+		"/C/Users/cristian/Dropbox/IKAWELL/03 PROYECTOS ACTIVOS/ModelodeNegocio.cl/propel_wordpress_theme/propel/inc/submit.php",
+		"/C/Users/cristian/Desktop/config/config.php",
+		"/C/Users/cristian/Desktop/config/database.php",
+		"/C/xampp/htdocs/sysmedcloud/application/controllers/Login_app.php",
+		"/C/Users/cristian/AppData/Local/Temp/fz3temp-2/Dashboard_model.php",
+		"/C/Users/cristian/Downloads/desarrolloTarea (1).sh",
+		"/C/Users/cristian/Desktop/modulo agenda requerimientos",
+		"/C/Users/cristian/Desktop/historia_med.sql",
+		"/C/Users/cristian/Desktop/ORACLE - 29-08-2015.sql",
+		"/C/Users/cristian/Desktop/consula_medica_1.sql",
+		"/C/Users/cristian/Desktop/1-clase admin y progr. base de datos oracle.sql",
+		"/C/Users/cristian/Desktop/permisos_usuario_wordpress.txt",
+		"/C/Users/cristian/Desktop/nuevas_frases_sitio.txt",
+		"/C/Users/cristian/Desktop/sysmedcloud_02_08_2016.sql",
+		"/C/Users/cristian/Desktop/sql_examenes_archivos.sql",
+		"/C/xampp/htdocs/test_2/examples/test.php",
+		"/C/xampp/htdocs/test_2/examples/upload.php",
+		"/C/xampp/htdocs/test_2/examples/borrar.php",
+		"/C/Users/cristian/Google Drive/sysmedcloud_22_09_2016/application/controllers/Consulta_medica.php",
+		"/C/xampp/htdocs/sysmedcloud/css/style.css",
+		"/C/xampp/htdocs/test_2/examples/prueba.html",
+		"/C/xampp/htdocs/test_2/examples/index.html",
+		"/C/xampp/htdocs/test_2/js/locales/es.js",
+		"/C/xampp/htdocs/jqueryPlugins-master/BootstrapFileupload/borrar.php",
+		"/C/xampp/htdocs/jqueryPlugins-master/BootstrapFileupload/upload.php",
+		"/C/xampp/htdocs/jqueryPlugins-master/BootstrapFileupload/js/fileinput.min.js",
+		"/C/xampp/htdocs/test_2/js/fileinput.js",
+		"/C/Users/cristian/Downloads/jqueryPlugins-master/BootstrapFileupload/index.php",
+		"/C/xampp/htdocs/lightbox-master/examples/index.html",
+		"/C/xampp/htdocs/test_1/server.php",
+		"/C/xampp/htdocs/test_1/index.html",
+		"/C/Users/cristian/Downloads/LASP3MH5QL56CY/CONTRASENA AQUI.txt",
+		"/C/Users/cristian/pokedex/public/js/app.js",
+		"/C/Users/cristian/pokedex/public/index.html",
+		"/C/xampp/htdocs/jqueryPlugins-master/BootstrapFileupload/js/fileinput_locale_es.js",
+		"/C/Users/cristian/Desktop/consula_medica.sql",
+		"/C/Users/cristian/Google Drive/cloudmed/caracteristicas_modulo_agenda",
+		"/C/Users/cristian/Downloads/AOF2/LEEME!!!.txt",
+		"/C/Users/cristian/Google Drive/cursos platzi/app.js",
+		"/C/Users/cristian/pokedex/public/css/main.css",
+		"/C/Users/cristian/Google Drive/cloudmed/bd_sisgemed (3).sql",
+		"/C/xampp/htdocs/agenda/tmpls/day.html",
+		"/C/Users/cristian/Downloads/T6PSP/LEEME!!!.txt",
+		"/C/xampp/htdocs/agenda/tmpls/events-list.html",
+		"/C/xampp/htdocs/pokedex-master/public/js/controllers.js",
+		"/C/xampp/htdocs/pokedex-master/public/js/directives.js",
+		"/C/Users/cristian/Downloads/DD54N6R348/IMPORTANTE.txt",
+		"/C/Users/cristian/Downloads/D1M4NT3S4NGR3/D1M4NT3S4NGR3/diamantedesangre.dvdrip.latino_info.txt",
+		"/C/xampp/htdocs/agenda/index.php",
+		"/C/xampp/htdocs/agenda/funciones.php",
+		"/C/xampp/htdocs/agenda/tmpls/year-month.html",
+		"/C/xampp/htdocs/agenda/tmpls/week.html",
+		"/C/xampp/htdocs/agenda/tmpls/year.html",
+		"/C/xampp/htdocs/agenda/tmpls/month-day.html",
+		"/C/xampp/htdocs/agenda/tmpls/month.html",
+		"/C/xampp/htdocs/agenda/tmpls/modal.html",
+		"/C/xampp/htdocs/agenda/obtener_eventos.php",
+		"/C/xampp/htdocs/agenda/descripcion_evento.php",
+		"/C/xampp/htdocs/agenda/config.php",
+		"/C/xampp/htdocs/agenda/eventos.sql",
+		"/C/xampp/htdocs/calendario/application/config/routes.php",
+		"/C/xampp/htdocs/calendario/application/config/config.php",
+		"/C/xampp/htdocs/calendario/application/config/autoload.php",
+		"/C/Users/cristian/Downloads/bootstrap-calendar-master/bootstrap-calendar-master/application/config/config.php",
+		"/C/Users/cristian/Downloads/bootstrap-calendar-master/bootstrap-calendar-master/application/config/database.php",
+		"/C/Users/cristian/Downloads/bootstrap-calendar-master/bootstrap-calendar-master/sql.txt",
+		"/C/Users/cristian/Downloads/Calendario-Bootstrap-php-mysql-master/Calendario-Bootstrap-php-mysql-master/js/bootstrap-datetimepicker.js",
+		"/C/Users/cristian/Downloads/bootstrap-datetimepicker-master/bootstrap-datetimepicker-master/src/js/bootstrap-datetimepicker.js",
+		"/C/xampp/htdocs/agenda/js/bootstrap-datetimepicker.es.js",
+		"/C/xampp/htdocs/agenda/js/calendar.js",
+		"/C/xampp/htdocs/agenda/js/moment.js",
+		"/C/xampp/htdocs/agenda/js/bootstrap-datetimepicker.js",
+		"/C/Users/cristian/Downloads/bootstrap-datepicker-1.5.1-dist/locales/bootstrap-datepicker.es.min.js",
+		"/C/xampp/htdocs/agenda/js/es-ES.js",
+		"/C/Users/cristian/Downloads/bootstrap-datepicker-1.5.1-dist/js/bootstrap-datepicker.js",
+		"/C/Users/cristian/Downloads/bootstrap-datepicker-1.5.1-dist/js/bootstrap-datepicker.min.js",
+		"/C/Users/cristian/Downloads/Calendario-Bootstrap-php-mysql-master/Calendario-Bootstrap-php-mysql-master/eventos.sql",
+		"/C/Users/cristian/Google Drive/adm. recursos informaticos/presentacion.txt",
+		"/C/Users/cristian/Google Drive/administración y programación en linux/sh/archivo1.sh",
+		"/C/Users/cristian/Google Drive/administración y programación en linux/sh/ejercicio1.sh",
+		"/C/Users/cristian/Google Drive/administración y programación en linux/sh/guia1.sh",
+		"/C/Users/cristian/Google Drive/administración y programación en linux/sh/guia1b.sh",
+		"/C/Users/cristian/Google Drive/administración y programación en linux/sh/guia1c.sh",
+		"/C/Users/cristian/Google Drive/administración y programación en linux/sh/guia1d.sh",
+		"/C/Users/cristian/Google Drive/administración y programación en linux/sh/guia1e.sh",
+		"/C/Users/cristian/Google Drive/administración y programación en linux/sh/guia1f.sh",
+		"/C/Users/cristian/Google Drive/administración y programación en linux/sh/guia2-1.sh",
+		"/C/Users/cristian/Google Drive/administración y programación en linux/sh/guia2-2.sh",
+		"/C/Users/cristian/Google Drive/administración y programación en linux/sh/guia2-3.sh"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/files",
+			"/uploads",
+			"upload",
+			"SyntaxError: Unexpected token",
+			"file-5",
+			"jpg",
+			"Example #2: Gallery of Images",
+			"MODULO",
+			"Fecha inicio",
+			"from",
+			"adaptate",
+			"#02BDD5",
+			";\n",
+			"#02BDD5",
+			";\n",
+			"#E3633B",
+			";\n",
+			"\"],\n",
+			"#02ADEF",
+			"#00305B",
+			"#008EC2",
+			"#5390CB",
+			"#E66432",
+			";\n",
+			"sliderf",
+			"slider",
+			"avatar-save",
+			"getCroppedCanvas",
+			"getData",
+			"get",
+			"img-preview",
+			"Dismissable Alerts",
+			"A wonderful serenity has taken possession. Alert Link",
+			"A wonderful serenity has taken possession. Alert Link. ",
+			"date",
+			"Checkboxes & radios\nCustom elements",
+			"Inline checkboxes",
+			"All form elements With custom checbox and radion elements.",
+			"wrapper",
+			"img",
+			"estadosolicitud",
+			"dataNuevoUsuario",
+			"_sendMailNuevoUsuario",
+			"_sendMailGmail",
+			"solicitudIngresada",
+			"detalleSolicitud",
+			"estadosolicitud",
+			"detallesolicitud",
+			"nom_inscribir",
+			"<?",
+			"strtoupper",
+			"generarPdfSolicitud",
+			"t_nom_abogado",
+			"rand",
+			"captcha",
+			"create_captcha",
+			"token",
+			"causasAsignadas",
+			"strtoupper",
+			"strtolower",
+			"causasAsignadas",
+			"show()",
+			"show",
+			"_generarPdfSolicitud",
+			"<!--PAGE CONTENT -->",
+			"editor",
+			"p://donewines.cl/en/",
+			"http://donewines.cl/",
+			"content_bg",
+			"subtitle",
+			"Timeline",
+			"#right",
+			"right",
+			".right",
+			"right",
+			"inner",
+			"rigth",
+			"inner",
+			"#00AEDB",
+			"left",
+			"#00AEDB",
+			"component-nav",
+			"#00AEDB",
+			"menu",
+			"#428bca",
+			"#428BCA",
+			"#428bca",
+			"#F8F8F8",
+			"collapse",
+			"left",
+			"#428bca",
+			"#428BCA",
+			"wrap",
+			"padTop53",
+			"navbar",
+			"top",
+			"wrap",
+			"navbar-brand",
+			"top",
+			"navbar-brand",
+			"logo",
+			"navbar-brand",
+			"navbar-header",
+			"11",
+			"10",
+			"nav-accordion",
+			"sidebar-menu",
+			"nav-accordion",
+			"accordion",
+			"nav-accordion"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#4398CD",
+			"#000000",
+			"#02BDD5",
+			"#02ADEF",
+			"#00305B",
+			"#008EC2",
+			"#5390CB",
+			"mb_strtoupper",
+			"hmb_strtoupper",
+			"http://donewines.cl/en/",
+			"mb_strtoupper",
+			"http://donewines.cl/en/",
+			"#00457C",
+			"#00AEDB",
+			"12",
+			"11",
+			"",
+			"11",
+			"",
+			"11",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "curso-typescript.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 163.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
